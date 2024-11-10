@@ -1,6 +1,6 @@
 # 🎓 Universidade Católica do Salvador (UCSal)
 
-![Logo da UCSal](link_para_o_logo.png)
+![Logo da UCSal](https://www.ucsal.br/wp-content/uploads/2023/10/LOGO-ucsal.svg)
 
 Bem-vindo ao nosso perfil oficial no GitHub!
 Aqui você encontrará projetos e iniciativas que refletem nosso compromisso com a excelência acadêmica e a inovação tecnológica.
